@@ -1,4 +1,12 @@
-# Succinct, Cysic, and the Future of Ethereum Scaling: A Deep Dive
+**Author:** \[Sehnz]
+**Date:** July 2025
+
+* [Twitter:] (https://x.com/tradewithsehnz)
+* [Discord:] @officialsehnz
+
+Let's hit it
+
+# Succinct, and the Future of Ethereum Scaling: A Deep Dive
 
 ## Introduction
 
